@@ -4,7 +4,7 @@ This is a project from the Scrimba [CSS Grid](https://scrimba.com/learn/cssgrid/
 
 ## About The Project
 
-![Article Layout screenshot](./screenshot.jpg)
+<img src='./screenshot.jpg' alt='Article Layout screenshot' height='500px'/>
 
 This project uses a grid layout to render the article on the page.
 
